@@ -22,4 +22,8 @@ public class Library {
     public Bookcase getBookcase(Bookcase bookcase){
         return null;
     }
+
+    public int getBookAmount(){
+        return 0;
+    }
 }
